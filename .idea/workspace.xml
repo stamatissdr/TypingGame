@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8e96d3-b696-47cb-b769-a76f0d5d4239" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/words.txt" afterDir="false" />
-    </list>
+    <list default="true" id="fd8e96d3-b696-47cb-b769-a76f0d5d4239" name="Changes" comment="Java Typing Game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,10 +55,34 @@
       <updated>1719160326733</updated>
       <workItem from="1719160328125" duration="9173000" />
       <workItem from="1720098342814" duration="749000" />
+      <workItem from="1726037183407" duration="680000" />
     </task>
+    <task id="LOCAL-00001" summary="Java Typing Game">
+      <created>1726037306237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726037306237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Typing Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Typing Game" />
   </component>
 </project>
